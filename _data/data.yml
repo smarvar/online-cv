@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Steven Martinez Vargas
-    tagline: Ingeniero Electrónico
+    tagline: Electronic Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -54,19 +54,20 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Critical and analytical electronic engineer with great capacity to take on new challenges and knowledge, 
+      committed to individual and team work. With skills to tackle research and technological development projects 
+      in areas of Engineering that involve data processing and computer vision. 
+      In interdisciplinary groups in cooperation or assuming their leadership. 
+      I am currently in the second year of my Doctorate in Engineering, where I develop my research topic, 
+      focused on the geometric processing and simplification of georeferenced 3D point clouds at 
+      the Universidad Nacional del Sur. Bahía Blanca, Argentina.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
+      - degree: PhD in Engineering
+        university: Universidad Nacional del Sur
+        time: 2019 - in progress
+       # details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -74,10 +75,10 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
+      - degree: Electronic Engineer
+        university: BUniversidad de Cundinamarca
+        time: 2009 - 2014
+      #  details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
